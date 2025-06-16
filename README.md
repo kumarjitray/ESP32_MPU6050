@@ -17,7 +17,7 @@ This project demonstrates how to interface an **MPU6050 (6-axis accelerometer an
 
 | MPU6050 Pin | ESP32 Wroom Pin | Description     |
 |-------------|------------------|-----------------|
-| VCC         | 3.3V             | Power supply    |
+| VCC         | 3.3V / 5V            | Power supply    |
 | GND         | GND              | Ground          |
 | SDA         | GPIO21           | I2C Data line   |
 | SCL         | GPIO22           | I2C Clock line  |
